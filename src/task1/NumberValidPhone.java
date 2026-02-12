@@ -5,7 +5,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.regex.Pattern;
 
-class printNumberValidPhone {
+class NumberValidPhone {
     static void main(String[] args) {
         printNumberValidPhone("src/task1/file.txt");
     }
